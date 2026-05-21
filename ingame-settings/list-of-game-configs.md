@@ -1,4 +1,4 @@
-﻿# List of Game Configs
+# 🎮 List of Game Configs
 
 - [COD General settings](cod-general-settings.md)
 - [The Finals](the-finals.md)
@@ -6,3 +6,4 @@
 - [Apex Legends](apex-legends.md)
 - [Destiny 2](destiny-2.md)
 - [Overwatch](overwatch.md)
+

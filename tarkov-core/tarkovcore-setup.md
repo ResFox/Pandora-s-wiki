@@ -1,4 +1,4 @@
-﻿# TARKOVCORE SETUP
+# 🪖 Escape from Tarkov (TARKOVCORE) Setup
 
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FGj4iUaY66PbGnsb5sDRa%2Fimage.png?alt=media&amp;token=acf69fbf-32fc-451d-95aa-cf8b45f4f62d" alt=""><figcaption></figcaption></figure>
 
@@ -67,3 +67,4 @@
 Enjoy the game. Just dont have crazy high KD.&#x20;
 
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FGj4iUaY66PbGnsb5sDRa%2Fimage.png?alt=media&amp;token=acf69fbf-32fc-451d-95aa-cf8b45f4f62d" alt=""><figcaption></figcaption></figure>
+

@@ -1,4 +1,4 @@
-﻿# Apex Legends
+# 🏹 Apex Legends
 
 ### LIMIT YOUR GAME FPS BETWEEN 60-144 (or screen refresh rate)
 
@@ -14,3 +14,4 @@ reticle\_color "2147483648 2147483648 2147483648"
 #### Recommended reticle color
 
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FckrHonLZ0YHgiRPW4PBZ%2Fimage.png?alt=media&amp;token=38bee064-d926-4a74-96f7-8c5435f68941" alt=""><figcaption></figcaption></figure>
+

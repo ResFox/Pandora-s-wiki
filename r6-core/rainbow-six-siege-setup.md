@@ -1,4 +1,4 @@
-﻿# Rainbow Six Siege SETUP
+# 🛡️ Rainbow Six Siege Setup
 
 Open the game first \
 Then run the software
@@ -25,3 +25,4 @@ If you get this mensagge (ULTRA RARE THIS HAPPENS)\
 You are fine, game just detect a memory corruption. This is not a ban\
 Also Client not responding is same type of issue.\
 This never happens often is very rare but can happens sinse we touch your memory ram for this software.&#x20;
+

@@ -1,4 +1,4 @@
-﻿# ARCCORE SETUP
+# 🎯 ARC Raiders (ARCCORE) Setup
 
 Open the game first \
 Then run the software
@@ -18,3 +18,4 @@ Then run the software
 3: DO NOT KILL PEOPLE UNNECESSARILY. ONLY KILL THOSE WHO INEVITABLY CROSS YOUR PATH.
 
 4: DO NOT PLAY WITH AIMBOT RAGE
+

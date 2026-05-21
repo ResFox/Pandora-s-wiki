@@ -1,4 +1,4 @@
-﻿# COD General settings
+# 🔫 COD General Settings
 
 {% embed url="general-set-up/pc-enviroment.md" %}
 
@@ -7,3 +7,4 @@
 Limit the FPS to your screen refresh rate&#x20;
 
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FGxBnQJ1Z5lGmmjeSPPZX%2Fimage.png?alt=media&amp;token=3f2623db-31b5-4584-aa7e-dbbd11cebd4c" alt=""><figcaption></figcaption></figure>
+

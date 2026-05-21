@@ -1,4 +1,4 @@
-﻿# 🍭 NimLeague SETUP
+# 🍭 League of Legends (NimLeague) Setup
 
 pls make sure you correctly do PC Enviroment guide
 
@@ -37,3 +37,4 @@ I recommend use arround 55 extra winup&#x20;
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FJMttZJUeZrADPfTj4UUH%2Fimage.png?alt=media&amp;token=1a0b7cbd-6715-4241-af53-e7c86e7b0fef" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FJMttZJUeZrADPfTj4UUH%2Fimage.png?alt=media&amp;token=1a0b7cbd-6715-4241-af53-e7c86e7b0fef" alt=""><figcaption></figcaption></figure>
+

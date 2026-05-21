@@ -1,4 +1,4 @@
-﻿# Rainbow Six Siege X
+# 🛡️ Rainbow Six Siege X
 
 ### GAME
 
@@ -10,3 +10,4 @@
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FP7lvWvIYOb7HNtmnmrN0%2Fimage.png?alt=media&amp;token=1d360281-148a-4bb8-9a0b-393b74230a9d" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FqNgva8e7FhWxQtAVyKAr%2Fimage.png?alt=media&amp;token=c3198503-2c9a-404e-bcb0-3e76c22f5816" alt=""><figcaption></figcaption></figure>
+

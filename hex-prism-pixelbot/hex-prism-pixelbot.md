@@ -1,1 +1,2 @@
-﻿# HEX PRISM PIXELBOT
+# 🧩 Hex Prism Pixelbot
+

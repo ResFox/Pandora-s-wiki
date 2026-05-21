@@ -1,4 +1,4 @@
-﻿# 🔫 CODCORE SETUP
+# 🔫 Call of Duty (CODCORE) Setup
 
 Please install the required packages
 
@@ -28,7 +28,7 @@ Talking about this is difficult, as it's a subject many people are unfamiliar wi
 
 **What is a Shadow Ban in Call of Duty?**
 
-In Activision’s Call of Duty, a shadow ban doesn’t necessarily prohibit players from accessing the game; rather, it places them in a restricted server pool. This means players suspected of cheating or exhibiting suspicious behavior are grouped into lobbies with others under similar suspicion, often facing extreme latency and harder matches. This mechanism was implemented with the Ricochet Anti-Cheat system to deter cheaters while maintaining a fair experience for regular players.
+In Activision�s Call of Duty, a shadow ban doesn�t necessarily prohibit players from accessing the game; rather, it places them in a restricted server pool. This means players suspected of cheating or exhibiting suspicious behavior are grouped into lobbies with others under similar suspicion, often facing extreme latency and harder matches. This mechanism was implemented with the Ricochet Anti-Cheat system to deter cheaters while maintaining a fair experience for regular players.
 
 ### <mark style="color:$success;">Account Shielding</mark>
 
@@ -81,3 +81,4 @@ I recommend play alot casual mode to increase your average stats\
 \
 **Account level recomendation.**\
 I recommend use accounts at least lvl 110 to play rankeds&#x20;
+

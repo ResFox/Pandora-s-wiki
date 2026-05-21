@@ -1,4 +1,4 @@
-﻿# 🐱Social Channels
+# ??Social Channels
 
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FcRwSAAjuYzp5HOjj7lz3%2Fimage.png?alt=media&amp;token=e5ea14fe-b9ba-4558-8b34-ffa071fd74c1" alt=""><figcaption></figcaption></figure>
 
@@ -12,4 +12,5 @@
 
 #### Discord:
 
-{% embed url="https://discord.gg/nimrodcore" %}
+{% embed url="http://discord.gg/4TEqYVNMmm" %}
+

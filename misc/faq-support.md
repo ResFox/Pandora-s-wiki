@@ -1,14 +1,14 @@
-﻿# ❓ FAQ/Support
+# ? FAQ/Support
 
 ### Where to find support for Pandora's Box products?
 
 You can find support for our products in our Discord, just make sure you open a ticket:
 
-https://discord.gg/nimrodcore
+http://discord.gg/4TEqYVNMmm
 
 Gateway to all our channels
 
-{% embed url="https://discord.gg/kFCkSyP6pY" %}
+{% embed url="http://discord.gg/4TEqYVNMmm" %}
 
 You can also find support in the rest of this Gitbook and below.
 
@@ -52,3 +52,4 @@ SMM is a special execution mode in x86_64 processor architectures, originally in
 - Q: Where can I find the features for each product?: A: Each product will have their own section here on the Gitbook, a section on the website, and most likely we'll also have a little description of it on Discord
 - Q: Where can I find the prices for the products?: A: Refer to the "Subscriptions & Payments" page here on the Gitbook.
 - Q: How can I become a reseller?: A: Either open a ticket or send a DM (preferably open a ticket). We aren't currently allowing resellers to resell SkynetAim products as we want to grow our brand first, but if you open a ticket and let us know, we'll put you on the list for first-come first-serve resellers.
+

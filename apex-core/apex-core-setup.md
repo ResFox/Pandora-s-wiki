@@ -1,4 +1,4 @@
-﻿# APEX CORE SETUP
+# 🏹 Apex Legends (APEX CORE) Setup
 
 In Apex, the biggest trigger for bans is manual bans.
 
@@ -11,3 +11,4 @@ Try not to get too many kills per match.
 &#x20;Don't overuse obvious aimbots
 
 Try to hide your walls.
+
