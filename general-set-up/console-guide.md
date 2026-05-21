@@ -6,7 +6,7 @@ To use Skynet on consoles, you need to install an application that allows you to
 
 ### PlayStation Device
 
-<figure><img src="https://2000999588-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fxr02iQbBt5IsdQ3g6zQo%252Fuploads%252F7kz01c8NgRq1ruOSlG4I%252Fimage.png%3Falt%3Dmedia%26token%3Dd52e3e09-4690-49ec-b80b-4f20f8fc5039" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2F7kz01c8NgRq1ruOSlG4I%2Fimage.png?alt=media&amp;token=d52e3e09-4690-49ec-b80b-4f20f8fc5039" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 For the Play Station we recommend 2 programs, Chiaki and PlayStation Remote
@@ -14,7 +14,7 @@ For the Play Station we recommend 2 programs, Chiaki and PlayStation Remote
 
 Go to your PlayStation Settings and enable Remote Play
 
-<figure><img src="https://2000999588-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fxr02iQbBt5IsdQ3g6zQo%252Fuploads%252FkeIP7krzlvo0UkKVP6Qf%252Fimage.png%3Falt%3Dmedia%26token%3D02625a41-695e-4607-a56c-855435949352" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FkeIP7krzlvo0UkKVP6Qf%2Fimage.png?alt=media&amp;token=02625a41-695e-4607-a56c-855435949352" alt=""><figcaption></figcaption></figure>
 
 #### Option 1 Chiaki:
 
@@ -44,7 +44,7 @@ Recommended video tutorial:
 
 ### XBOX Device
 
-<figure><img src="https://2000999588-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fxr02iQbBt5IsdQ3g6zQo%252Fuploads%252Fh75ALdx74NoPRUxYyjmW%252Fimage.png%3Falt%3Dmedia%26token%3D69ebe0d9-6db2-4a53-a89e-9c56f50a6267" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2Fh75ALdx74NoPRUxYyjmW%2Fimage.png?alt=media&amp;token=69ebe0d9-6db2-4a53-a89e-9c56f50a6267" alt=""><figcaption></figcaption></figure>
 
 Recommended video tutorial:
 

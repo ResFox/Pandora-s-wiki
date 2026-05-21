@@ -15,9 +15,9 @@ If not. Contact Support trought discord.
 
 ### VISIBILITY CHECK SETUP&#x20;
 
-<figure><img src="https://2000999588-files.gitbook.io/~2000999588-files.gitbook.io/~2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces/xr02iQbBt5IsdQ3g6zQo/uploads/0T6XLjDhUHsujnA1C3yE/{8E4F5DD9-8BE9-49D5-8A71-66D07BDF86EF}.png?alt=media&amp;token=cf2a662e-30a3-4685-85fb-cff2f99a8cbd/b/gitbook-x-prod.appspot.com/o/spaces/xr02iQbBt5IsdQ3g6zQo/uploads/dH1amUT2SO23yk4vyglV/{392D91A7-59C1-49E1-A8B5-CCDE6FC9CD51}.png?alt=media&amp;token=007228fc-a319-405b-baa9-acbb15463091/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FdH1amUT2SO23yk4vyglV%2F%7B392D91A7-59C1-49E1-A8B5-CCDE6FC9CD51%7D.png?alt=media&amp;token=007228fc-a319-405b-baa9-acbb15463091" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2F0T6XLjDhUHsujnA1C3yE%2Fimage.png?alt=media&amp;token=cf2a662e-30a3-4685-85fb-cff2f99a8cbd" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://2000999588-files.gitbook.io/~2000999588-files.gitbook.io/~2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces/xr02iQbBt5IsdQ3g6zQo/uploads/0T6XLjDhUHsujnA1C3yE/{8E4F5DD9-8BE9-49D5-8A71-66D07BDF86EF}.png?alt=media&amp;token=cf2a662e-30a3-4685-85fb-cff2f99a8cbd/b/gitbook-x-prod.appspot.com/o/spaces/xr02iQbBt5IsdQ3g6zQo/uploads/dH1amUT2SO23yk4vyglV/{392D91A7-59C1-49E1-A8B5-CCDE6FC9CD51}.png?alt=media&amp;token=007228fc-a319-405b-baa9-acbb15463091/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FdH1amUT2SO23yk4vyglV%2F%7B392D91A7-59C1-49E1-A8B5-CCDE6FC9CD51%7D.png?alt=media&amp;token=007228fc-a319-405b-baa9-acbb15463091" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2F0T6XLjDhUHsujnA1C3yE%2Fimage.png?alt=media&amp;token=cf2a662e-30a3-4685-85fb-cff2f99a8cbd" alt=""><figcaption></figcaption></figure>
 
 #### RECOMENDATIONS&#x20;
 

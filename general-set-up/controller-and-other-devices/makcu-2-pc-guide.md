@@ -20,7 +20,7 @@
    2. Wait for a connection or stream source from PC1.
    3. You may need to right click and select the stream yourself, see attached image below, names will vary.
 
-<figure><img src="https://2000999588-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fxr02iQbBt5IsdQ3g6zQo%252Fuploads%252FGxBnQJ1Z5lGmmjeSPPZX%252Fimage.png%3Falt%3Dmedia%26token%3D3f2623db-31b5-4584-aa7e-dbbd11cebd4cqGB5LyfZO1mIsDxLGAs" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FGxBnQJ1Z5lGmmjeSPPZX%2Fimage.png?alt=media&amp;token=3f2623db-31b5-4584-aa7e-dbbd11cebd4c" alt=""><figcaption></figcaption></figure>
 
 1. pass: `123`
 

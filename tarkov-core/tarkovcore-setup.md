@@ -1,6 +1,6 @@
 ﻿# TARKOVCORE SETUP
 
-<figure><img src="https://2000999588-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fxr02iQbBt5IsdQ3g6zQo%252Fuploads%252FGj4iUaY66PbGnsb5sDRa%252Fimage.png%3Falt%3Dmedia%26token%3Dacf69fbf-32fc-451d-95aa-cf8b45f4f62d" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FGj4iUaY66PbGnsb5sDRa%2Fimage.png?alt=media&amp;token=acf69fbf-32fc-451d-95aa-cf8b45f4f62d" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:$warning;">HOTKEYS:</mark>
 
@@ -24,7 +24,7 @@
 
 7- Evade use CHEATER loot: Like 6SH118 bag
 
-<figure><img src="https://2000999588-files.gitbook.io/~2000999588-files.gitbook.io/~2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces/xr02iQbBt5IsdQ3g6zQo/uploads/Gj4iUaY66PbGnsb5sDRa/image.png?alt=media&amp;token=acf69fbf-32fc-451d-95aa-cf8b45f4f62d/b/gitbook-x-prod.appspot.com/o/spaces/xr02iQbBt5IsdQ3g6zQo/uploads/Y0onAObl01pANSVaZZdR/tarkov-mmm-tarkov4.gif?alt=media&amp;token=29d52fd1-7410-45fb-9b8f-77cc495d1b10/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FY0onAObl01pANSVaZZdR%2Ftarkov-mmm-tarkov4.gif?alt=media&amp;token=29d52fd1-7410-45fb-9b8f-77cc495d1b10" alt="" width="125"><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FGj4iUaY66PbGnsb5sDRa%2Fimage.png?alt=media&amp;token=acf69fbf-32fc-451d-95aa-cf8b45f4f62d" alt="" width="125"><figcaption></figcaption></figure>
 
 8- Evade kill streamers if you recognice one
 
@@ -66,4 +66,4 @@
 
 Enjoy the game. Just dont have crazy high KD.&#x20;
 
-<figure><img src="https://2000999588-files.gitbook.io/~2000999588-files.gitbook.io/~2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces/xr02iQbBt5IsdQ3g6zQo/uploads/Gj4iUaY66PbGnsb5sDRa/image.png?alt=media&amp;token=acf69fbf-32fc-451d-95aa-cf8b45f4f62d/b/gitbook-x-prod.appspot.com/o/spaces/xr02iQbBt5IsdQ3g6zQo/uploads/Y0onAObl01pANSVaZZdR/tarkov-mmm-tarkov4.gif?alt=media&amp;token=29d52fd1-7410-45fb-9b8f-77cc495d1b10/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FY0onAObl01pANSVaZZdR%2Ftarkov-mmm-tarkov4.gif?alt=media&amp;token=29d52fd1-7410-45fb-9b8f-77cc495d1b10" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FGj4iUaY66PbGnsb5sDRa%2Fimage.png?alt=media&amp;token=acf69fbf-32fc-451d-95aa-cf8b45f4f62d" alt=""><figcaption></figcaption></figure>
