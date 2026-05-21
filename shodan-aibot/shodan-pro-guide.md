@@ -1,8 +1,8 @@
-﻿# SHODAN PRO GUIDE
+# 🤖 SHODAN Pro Guide
 
 Welcome to Shodan the first world AI aimbot in the market sinse 2022.
 
-<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2Fq3u88LlmGF2ZowtyY3P4%2Fimage.png?alt=media&amp;token=fe835807-245b-4125-9113-02780dfa6560" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2Fq3u88LlmGF2ZowtyY3P4%2Fimage.png?alt=media&#x26;token=fe835807-245b-4125-9113-02780dfa6560" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 The games must be closed before opening Shodan. This is just a preventative measure to avoid loading drivers at vulnerable times.
@@ -10,9 +10,7 @@ The games must be closed before opening Shodan. This is just a preventative meas
 
 * Visit and follow this guide and after finish it pls complete the other steps<br>
 
-{% embed url="general-set-up/pc-enviroment.md" %}
-
-1. Extract files using file password.&#x20;
+1. Extract files using file password.
 
 {% hint style="info" %}
 Pls do not use file inside the zipped folder .
@@ -26,5 +24,5 @@ Pls do not use file inside the zipped folder .
 7. Enjoy playing
 
 {% hint style="info" %}
-note: is posible your shodan config is not perfect, can be really slow or so shaky depends of your ingame sens, dpi and windows config.&#x20;
+note: is posible your shodan config is not perfect, can be really slow or so shaky depends of your ingame sens, dpi and windows config.
 {% endhint %}

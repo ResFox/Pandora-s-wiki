@@ -5,8 +5,6 @@
 ## 📘 Overview
 
 * [📜 Terms of Use](overview/welcome-to-nimrodcore.md)
-* [🕰️ History](overview/history.md)
-* [🌐 Social Channels](overview/social-channels.md)
 
 ## 🧩 Requirements
 
@@ -18,7 +16,6 @@
 
 * [❓ FAQ/Support](misc/faq-support.md)
 * [💸 Subscription & Payments](misc/subscription-and-payments.md)
-* [🫴 Free Trials](misc/free-trials.md)
 
 ## ⚙️ General Setup
 
@@ -60,7 +57,7 @@
 
 ## 🎮 Ingame Settings
 
-* [🗂️ List of Game Configs](ingame-settings/list-of-game-configs.md)
+* [🎮 List of Game Configs](ingame-settings/list-of-game-configs.md)
   * [🔫 COD General Settings](ingame-settings/list-of-game-configs/cod-general-settings.md)
   * [💥 The Finals](ingame-settings/list-of-game-configs/the-finals.md)
   * [🛡️ Rainbow Six Siege X](ingame-settings/list-of-game-configs/rainbow-six-siege-x.md)

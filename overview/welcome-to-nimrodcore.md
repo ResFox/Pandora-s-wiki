@@ -1,4 +1,4 @@
-# Welcome to Pandora's Box
+# 📜 Terms of Use
 
 ## Terms of Use
 
@@ -71,4 +71,4 @@ We may terminate or suspend your access to our Services at any time, with or wit
 
 ### Contact Us
 
-If you have questions about these Terms, please contact us through the ticket channel on <http://discord.gg/4TEqYVNMmm>
+If you have questions about these Terms, please contact us through the ticket channel on [http://discord.gg/4TEqYVNMmm](http://discord.gg/4TEqYVNMmm)
