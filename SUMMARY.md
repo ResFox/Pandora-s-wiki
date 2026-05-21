@@ -43,7 +43,6 @@
 
 ## 🎯 Game Setup Guides
 
-* [🍭 League of Legends (NimLeague)](nimleague/nimleague-setup.md)
 * [🦸 Marvel Rivals (MARVELCORE)](marvelcore/marvelcore-setup.md)
 * [🔫 Call of Duty (CODCORE)](codcore/codcore-setup.md)
 * [🐂 Rust (RUST CORE)](rust/rust-core-setup.md)
