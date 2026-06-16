@@ -1,10 +1,16 @@
 # 🔫 Call of Duty (CODCORE) Setup
 
-### Step 1 — Fix a blocked driver
+### Step 1 — Drivers
 
 If Windows blocks the driver, fix that first before continuing.
 
-{% embed url="general-set-up/fixes/this-driver-has-been-blocked.md" %}
+{% content-ref url="../general-set-up/fixes/this-driver-has-been-blocked.md" %}
+[this-driver-has-been-blocked.md](../general-set-up/fixes/this-driver-has-been-blocked.md)
+{% endcontent-ref %}
+
+You also need the **ViGEmBus** driver for virtual controller support. Download and install it:
+
+{% embed url="https://github.com/nefarius/ViGEmBus/releases/download/v1.22.0/ViGEmBus_1.22.0_x64_x86_arm64.exe" %}
 
 ### Step 2 — How can I use it with my controller?
 
@@ -17,17 +23,23 @@ If Windows blocks the driver, fix that first before continuing.
 
 For full controller setup and the files you need, read this guide:
 
-{% embed url="general-set-up/controller-and-other-devices/controller-pc-guide.md" %}
+{% content-ref url="../general-set-up/controller-and-other-devices/controller-pc-guide.md" %}
+[controller-pc-guide.md](../general-set-up/controller-and-other-devices/controller-pc-guide.md)
+{% endcontent-ref %}
 
 ***
 
-Please install the required packages
+Please install the required packages:
 
-{% embed url="requirements/required-packages.md" %}
+{% content-ref url="../requirements/required-packages.md" %}
+[required-packages.md](../requirements/required-packages.md)
+{% endcontent-ref %}
 
-Read this guide to get good performance of the software
+Read this guide to get good performance of the software:
 
-{% embed url="general-set-up/pc-enviroment.md" %}
+{% content-ref url="../general-set-up/pc-enviroment.md" %}
+[pc-enviroment.md](../general-set-up/pc-enviroment.md)
+{% endcontent-ref %}
 
 #### SOFTWARE USAGE&#x20;
 
