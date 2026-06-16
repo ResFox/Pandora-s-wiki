@@ -1,5 +1,9 @@
 # 🔫 Call of Duty (CODCORE) Setup
 
+If Windows blocks the driver, fix that first before continuing
+
+{% embed url="general-set-up/fixes/this-driver-has-been-blocked.md" %}
+
 Please install the required packages
 
 {% embed url="requirements/required-packages.md" %}
