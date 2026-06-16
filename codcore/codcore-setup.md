@@ -1,16 +1,29 @@
 # 🔫 Call of Duty (CODCORE) Setup
 
-If Windows blocks the driver, fix that first before continuing
+### Step 1 — Fix a blocked driver
+
+If Windows blocks the driver, fix that first before continuing.
 
 {% embed url="general-set-up/fixes/this-driver-has-been-blocked.md" %}
+
+### Step 2 — How can I use it with my controller?
+
+1. Open COD.
+2. Open COD Core.
+3. Click "YES" for Virtual Controller.
+4. Select "YES" if using an Xbox controller, or "NO" if using a PS5/PS4 controller.
+5. Wait for the menu to appear in your game (open it with the HOME / 8 keybind).
+6. Plug in your controller.
+
+For full controller setup and the files you need, read this guide:
+
+{% embed url="general-set-up/controller-and-other-devices/controller-pc-guide.md" %}
+
+***
 
 Please install the required packages
 
 {% embed url="requirements/required-packages.md" %}
-
-If you are a controller player pls read this guide to understand how controller works and make sure you have all necesary files installed
-
-{% embed url="general-set-up/controller-and-other-devices/controller-pc-guide.md" %}
 
 Read this guide to get good performance of the software
 
