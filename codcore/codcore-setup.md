@@ -57,7 +57,7 @@ Talking about this is difficult, as it's a subject many people are unfamiliar wi
 
 **What is a Shadow Ban in Call of Duty?**
 
-In Activision�s Call of Duty, a shadow ban doesn�t necessarily prohibit players from accessing the game; rather, it places them in a restricted server pool. This means players suspected of cheating or exhibiting suspicious behavior are grouped into lobbies with others under similar suspicion, often facing extreme latency and harder matches. This mechanism was implemented with the Ricochet Anti-Cheat system to deter cheaters while maintaining a fair experience for regular players.
+In Activision's Call of Duty, a shadow ban doesn't necessarily prohibit players from accessing the game; rather, it places them in a restricted server pool. This means players suspected of cheating or exhibiting suspicious behavior are grouped into lobbies with others under similar suspicion, often facing extreme latency and harder matches. This mechanism was implemented with the Ricochet Anti-Cheat system to deter cheaters while maintaining a fair experience for regular players.
 
 ### <mark style="color:$success;">Account Shielding</mark>
 
