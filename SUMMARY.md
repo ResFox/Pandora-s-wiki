@@ -28,6 +28,7 @@
   * [🧱 This Driver Has Been Blocked](general-set-up/fixes/this-driver-has-been-blocked.md)
   * [🧊 Stop Windows Updates](general-set-up/fixes/stop-windows-updates.md)
   * [🎯 Wrong ESP Positions](general-set-up/fixes/wrong-esp-positions.md)
+  * [🖱️ Aim Not Working](general-set-up/fixes/aim-not-working.md)
 * [🎮 Controller and Other Devices](general-set-up/controller-and-other-devices.md)
   * [🎮 Controller PC Guide](general-set-up/controller-and-other-devices/controller-pc-guide.md)
   * [📟 Makcu 1 PC Guide](general-set-up/controller-and-other-devices/makcu-1-pc-guide.md)

@@ -7,3 +7,4 @@
 - [This driver has been blocked](this-driver-has-been-blocked.md)
 - [STOP Windows updates](stop-windows-updates.md)
 - [Wrong ESP positions](wrong-esp-positions.md)
+- [Aim Not Working](aim-not-working.md)
