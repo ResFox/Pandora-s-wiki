@@ -36,7 +36,7 @@ Download and install CH343 Driver
 **WHEN FLASHING REMOVE ALL CABLES**
 {% endhint %}
 
-<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FYKeHmEhTpoKrmeaubQQ%2Fimage.png?alt=media&amp;token=aa0966d0-1208-46b2-9abe-836d7778c185" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FB9FmNgrxdWwn4YVWvRAG%2Fimage.png?alt=media&amp;token=1ee8cfda-4000-41b2-870a-4acb6acc0fd6" alt=""><figcaption></figcaption></figure>
 
 hold the LEFT button and plug the blue cable into the LEFT USB port.
 
@@ -76,7 +76,7 @@ Right click install
 
 On your PC, go to Device Manager and open COM
 
-<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2F7Kyw6sVYoOVH7O5u0Opf%2Fimage.png?alt=media&amp;token=5ec78172-b990-46e1-890c-c0687b8a27ac" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FboVKx2S9HDnmumYh98PV%2Fimage.png?alt=media&amp;token=932b2746-15bb-462a-b67b-ba83221bf70a" alt=""><figcaption></figcaption></figure>
 
 Make sure the COM port number for Makcu is below **3** (shown as CH343).
 

@@ -15,10 +15,6 @@ If not. Contact Support trought discord.
 
 ### VISIBILITY CHECK SETUP&#x20;
 
-<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2F0T6XLjDhUHsujnA1C3yE%2Fimage.png?alt=media&amp;token=cf2a662e-30a3-4685-85fb-cff2f99a8cbd" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2F0T6XLjDhUHsujnA1C3yE%2Fimage.png?alt=media&amp;token=cf2a662e-30a3-4685-85fb-cff2f99a8cbd" alt=""><figcaption></figcaption></figure>
-
 #### RECOMENDATIONS&#x20;
 
 If you were previously banned **USING OTHER SOFTWARE** at least once you need to clean traces before starting with new acc

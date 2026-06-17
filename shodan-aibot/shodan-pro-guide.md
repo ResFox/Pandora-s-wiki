@@ -2,7 +2,7 @@
 
 Welcome to Shodan the first world AI aimbot in the market sinse 2022.
 
-<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2Fq3u88LlmGF2ZowtyY3P4%2Fimage.png?alt=media&#x26;token=fe835807-245b-4125-9113-02780dfa6560" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FADaTsTuiiUs4zI5DX0kj%2Fimage.png?alt=media&#x26;token=0ca07cbe-2e17-4c2d-aa90-e332d51569ee" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 The games must be closed before opening Shodan. This is just a preventative measure to avoid loading drivers at vulnerable times.

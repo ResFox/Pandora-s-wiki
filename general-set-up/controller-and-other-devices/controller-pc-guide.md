@@ -30,7 +30,7 @@ Mirror Download:
 
 #### 6 - SET AI IN CONTROLLER MODE
 
-<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FYKeHmEhTpoKrmeaubQQ%2Fimage.png?alt=media&amp;token=aa0966d0-1208-46b2-9abe-836d7778c185" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FmoH13ladeGFTO8rpVih0%2Fimage.png?alt=media&amp;token=e0422e92-f34a-4066-90f4-42facc8aea64" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2F4dvrbqNootT0Y4XQNwrD%2Fimage.png?alt=media&amp;token=d400eaa9-8bd2-4c13-9258-c873f4e24bad" alt=""><figcaption></figcaption></figure>
 
@@ -51,7 +51,7 @@ Some games like COD needs to setup manually in controller mode in the Game Setti
 * Open your game Shooting Range (Testing ground or practice area)
 * Enable Constant AI Tracking for testing
 
-<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FYKeHmEhTpoKrmeaubQQ%2Fimage.png?alt=media&amp;token=aa0966d0-1208-46b2-9abe-836d7778c185" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FAE5EEHS8oJNPZNG7Atog%2Fimage.png?alt=media&amp;token=25b4d7d6-6908-4662-ac4a-1ec8d62017ac" alt=""><figcaption></figcaption></figure>
 
 * Set Sensitivity Scale between 0.1-0.3 for testing
 

@@ -17,6 +17,8 @@
 
 1. Until it starts blinking blue. At that point, you can then pair your gamepad by activating pairing mode.
 
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FZZ0N9saM4xnTMsIXqRwd%2Fimage.gif?alt=media&#x26;token=8e06161c-1550-434b-9c32-0ff241005c15" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FMSCwzsSyU5FmaIe8DGkQ%2Fimage.png?alt=media&#x26;token=d3b57e57-ad97-44d6-9451-ee6e90e1a914" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **Pair Xbox Controllers**

@@ -31,7 +31,7 @@ Aim Key 1 and 2:
   * When Listening, press another key or mouse button, it'll automatically assign.
 * Hold down either aim key in order to activate the aim assist.
 
-<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2Fiq21s2f2jP4EyxFNFMq%2Fimage.png?alt=media&amp;token=19d20a3f-271d-4d0f-ab74-78d8fad5c46f" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2F2iq21s2f2jP4EyxFNFMq%2Fimage.png?alt=media&amp;token=19d20a3f-271d-4d0f-ab74-78d8fad5c46f" alt=""><figcaption></figcaption></figure>
 
 \
 Aimbones:
@@ -139,7 +139,7 @@ how much software takes to start aiming at target. Ideal for legit users&#x20;
 * Triggerbot checkbox:
   * Turns on and off the automatic Triggerbot.
 
-<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FGxBnQJ1Z5lGmmjeSPPZX%2Fimage.png?alt=media&amp;token=3f2623db-31b5-4584-aa7e-dbbd11cebd4c" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://2000999588-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fxr02iQbBt5IsdQ3g6zQo%2Fuploads%2FCo4wMss5Zh48IeXXGk8h%2Fimage.png?alt=media&amp;token=0cbb20a7-a1ca-4813-9d57-815a73e6ac5f" alt=""><figcaption></figcaption></figure>
 
 \
 Triggerbot Mode:
