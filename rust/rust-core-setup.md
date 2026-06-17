@@ -4,7 +4,9 @@ Download and extract the files
 
 make sure you complete enviroments:
 
-{% embed url="general-set-up/pc-enviroment.md" %}
+{% content-ref url="../general-set-up/pc-enviroment.md" %}
+[pc-enviroment.md](../general-set-up/pc-enviroment.md)
+{% endcontent-ref %}
 
 1. Run Rust
 2. In game menu run RUSTCORE&#x20;
